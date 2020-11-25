@@ -1,5 +1,5 @@
-FROM binhex/arch-base:latest
-MAINTAINER binhex
+FROM Minimad-Diver/arch-base:latest
+MAINTAINER Minimad-Diver
 
 # additional files
 ##################
